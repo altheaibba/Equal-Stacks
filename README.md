@@ -1,1 +1,2 @@
 # Equal-Stacks
+This is the solution that I came up with to a HackerRank problem. The challenge involves three stacks of cylinders where each cylinder has the same diameter, but varies in height. Its height can be changed by removing its top element any number of times. The aim was to make a program that calculates the maximum possible height of three stacks such that all of the stacks are exactly the same height.
